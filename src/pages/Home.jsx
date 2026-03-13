@@ -31,7 +31,7 @@ export default function Home() {
           onClick={() => navigate('/register')}
           className="bg-orange-500 hover:bg-orange-600 text-white font-bold text-lg px-10 py-4 rounded-full shadow-lg transition-colors duration-200"
         >
-          🎯 Register Now — ₹499
+          🎯 Register Now — ₹449
         </motion.button>
       </div>
 

@@ -133,7 +133,7 @@ export default function RegisterForm() {
           Join <span className="text-orange-500">Our Foundation</span>
         </h1>
         <p className="text-gray-500 text-sm">
-          Registration Fee: <span className="font-bold text-orange-500">₹499</span>
+          Registration Fee: <span className="font-bold text-orange-500">₹449</span>
         </p>
         <div className="w-20 h-1 bg-orange-500 mx-auto rounded-full mt-3" />
       </div>
@@ -325,14 +325,14 @@ export default function RegisterForm() {
             <h3 className="text-gray-800 font-bold text-base mb-1">
               Pay Registration Fee
             </h3>
-            <p className="text-orange-500 font-bold text-2xl mb-3">₹499</p>
+            <p className="text-orange-500 font-bold text-2xl mb-3">₹449</p>
             <img
               src={qrImage}
               alt="Payment QR Code"
               className="w-48 h-48 object-contain mx-auto rounded-xl border border-orange-200"
             />
             <p className="text-gray-500 text-xs mt-3">
-              Scan the QR code and pay ₹499. Then enter the transaction ID below.
+              Scan the QR code and pay ₹449. Then enter the transaction ID below.
             </p>
           </div>
 
